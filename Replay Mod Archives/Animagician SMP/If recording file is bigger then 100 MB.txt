@@ -1,0 +1,12 @@
+If the recording file is too big to upload (100MB+) then:
+
+1. open Minecraft
+2. go into your replay recording selection screen on the main menu
+3. select the recording that is too big
+4. select Edit
+5. click somewhere on the timeline where you want to split the recording
+6. select Insert split
+7. Apply and wait for the split to finish
+
+Then, you can upload the two or more split files to the github instead, 
+since Github's limit is on individual file size and not total file size of all files
